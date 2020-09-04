@@ -12,5 +12,10 @@ Download the "Website" folder.
 In the folder, there is "index.html" click that and you have opened the website!
 ```
 
+## Updates
+ 
+ I will most likely update this every 2 weeks. Sometimes less or more. Either way, keep an eye on this page as it might update frequently.
+
+
 ## License
 Soon to come (when the website is more developed)
